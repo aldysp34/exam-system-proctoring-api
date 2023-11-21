@@ -1,0 +1,10 @@
+Dockerfile
+README.md
+*.pyc
+*.pyo
+*.pyd
+*.idea
+__pycache__
+.pytest_cache
+new_venv/
+dlib/
